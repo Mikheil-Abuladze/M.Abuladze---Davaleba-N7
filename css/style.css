@@ -2,3 +2,9 @@
   display: flex;
   max-width: 200px;
 }
+.car1 {
+  float: left;
+}
+.car2 {
+  float: right;
+}
