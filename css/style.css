@@ -1,10 +1,11 @@
 * {
-  display: flex;
+  display:inline-flex;
   max-width: 200px;
 }
 .car1 {
   float: left;
 }
 .car2 {
-  float: right;
+  position: absolute;
+  right: 0%;
 }
